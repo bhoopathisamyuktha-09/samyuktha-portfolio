@@ -1,17 +1,7 @@
+## **CAREER OBJECTIVE**
 
-<table width="100%">
-  <tr>
-    <td width="30%" align="left" valign="middle">
-      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="250">
-    </td>
-    <td width="70%" align="left" valign="middle">
-      <h2>CAREER OBJECTIVE</h2>
-      <p>
-        Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, SQL, Excel, and Power BI, with an interest in data analysis, visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
-      </p>
-    </td>
-  </tr>
-</table>
+Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, SQL, Excel, and Power BI, with an interest in data analysis, 
+visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
 
 ---
 
