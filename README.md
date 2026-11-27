@@ -20,7 +20,7 @@ Vardhaman College of Engineering
 ## **TECHNICAL SKILLS**
 
 - **Programming:** Python
-- **Database:** SQL, MongoDB
+- **Database:** SQL
 - **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
 - **Visualization:** Power BI, Microsoft Excel
 - **Machine Learning:** Recommendation Systems, Predictive Modeling
@@ -55,6 +55,7 @@ Vardhaman College of Engineering
 - Developed a dashboard to monitor e-commerce sales performance.
 - Presented key business metrics, including total sales, average sale value, customer ratings, and item-level information.
 - **Dashboard Metrics:** $3.07M sales, $1K average sale, 3.9 average rating, and approximately 3,000 items.
+- **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring) 
 
 ### **2. Movie Recommendation System**
 
@@ -62,6 +63,7 @@ Vardhaman College of Engineering
 
 - Developed a machine learning-based movie recommendation system.
 - Focused on recommending movies based on user preferences and similarity.
+- **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py) 
 
 ### **3. Sales Prediction**
 
@@ -69,15 +71,14 @@ Vardhaman College of Engineering
 
 - Developed a machine learning model to predict sales using historical data.
 - Focused on identifying sales patterns and forecasting future sales.
-
-
+-**Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task4.py) 
 
 ## **CERTIFICATIONS**
 
-- Infosys – Business Intelligence
-- IBM – Data Fundamentals
-- Infosys Springboard – Data Science
-
+- **IBM – Data Fundamentals**  [View Certificate](https://lnkd.in/p/dPd68ZxH)
+- **Infosys Springboard – Data Science** [View Certificate](https://lnkd.in/p/dH_D9pjM)
+- **Zomato Review Analysis – Unstop:** [View Certificate / Project](https://lnkd.in/p/d7Kn9RvJ)
+    
 ## **AREAS OF INTEREST**
 
 - Data Analytics
