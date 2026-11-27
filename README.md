@@ -2,7 +2,7 @@
 ### Aspiring Data Analyst 
 
 ![Profile Photo](assets/images/profile.jpeg)
-
+<img src="assets/images/profile.jpg" alt="Profile Photo" width="150">
 [GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathisamyuktha@gmail.com)
 
 ---
@@ -50,6 +50,7 @@ Vardhaman College of Engineering
 
 ### **1. E-commerce Sales Monitoring Dashboard**
 ![E-commerce Dashboard](assets/images/ecommerce-dashboard.png)
+<img src="assets/images/ecommerce-dashboard.png" alt="E-commerce Dashboard" width="500">
 **Tools:** Power BI, Excel
 
 - Developed a dashboard to monitor e-commerce sales performance.
@@ -59,6 +60,7 @@ Vardhaman College of Engineering
 
 ### **2. Movie Recommendation System**
 ![Movie Recommendation System](assets/images/movie-recommendation.png)
+<img src="assets/images/movie-recommendation.png" alt="Movie Recommendation System" width="500">
 **Tools:** Python, Machine Learning
 
 - Developed a machine learning-based movie recommendation system.
@@ -67,6 +69,7 @@ Vardhaman College of Engineering
 
 ### **3. Sales Prediction**
 ![Sales Prediction](assets/images/sales-prediction.png)
+<img src="assets/images/sales-prediction.png" alt="Sales Prediction" width="500">
 **Tools:** Python, Machine Learning
 
 - Developed a machine learning model to predict sales using historical data.
