@@ -1,8 +1,7 @@
 # **Bhoopathi Samyuktha**
-### Aspiring Data Analyst 
+### Aspiring Data Analyst
+<img src="assets/images/profile.jpeg" alt="Profile Photo" width="150">
 
-![Profile Photo](assets/images/profile.jpeg)
-<img src="assets/images/profile.jpg" alt="Profile Photo" width="150">
 [GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathisamyuktha@gmail.com)
 
 ---
@@ -49,7 +48,6 @@ Vardhaman College of Engineering
 ## **PROJECTS**
 
 ### **1. E-commerce Sales Monitoring Dashboard**
-![E-commerce Dashboard](assets/images/ecommerce-dashboard.png)
 <img src="assets/images/ecommerce-dashboard.png" alt="E-commerce Dashboard" width="500">
 **Tools:** Power BI, Excel
 
@@ -59,7 +57,6 @@ Vardhaman College of Engineering
 - **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring) 
 
 ### **2. Movie Recommendation System**
-![Movie Recommendation System](assets/images/movie-recommendation.png)
 <img src="assets/images/movie-recommendation.png" alt="Movie Recommendation System" width="500">
 **Tools:** Python, Machine Learning
 
@@ -68,7 +65,6 @@ Vardhaman College of Engineering
 - **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py) 
 
 ### **3. Sales Prediction**
-![Sales Prediction](assets/images/sales-prediction.png)
 <img src="assets/images/sales-prediction.png" alt="Sales Prediction" width="500">
 **Tools:** Python, Machine Learning
 
