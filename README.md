@@ -1,9 +1,9 @@
-<table>
+<table width="100%">
   <tr>
-    <td width="250" valign="middle">
-      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="160">
+    <td width="22%" align="left" valign="middle">
+      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="150">
     </td>
-    <td valign="middle">
+    <td width="78%" align="left" valign="middle">
       <h1>Bhoopathi Samyuktha</h1>
       <h3>Aspiring Data Analyst</h3>
       <a href="https://github.com/bhoopathisamyuktha-09">GitHub</a> |
@@ -14,8 +14,6 @@
 </table>
 
 ---
-
-
 ---
 
 ## **CAREER OBJECTIVE**
