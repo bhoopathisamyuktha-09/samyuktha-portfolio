@@ -1,7 +1,7 @@
-<table width="270%">
+<table width="300%">
   <tr>
     <td width="22%" align="left" valign="middle">
-      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="220">
+      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="250">
     </td>
     <td width="78%" align="left" valign="middle">
       <h1>Bhoopathi Samyuktha</h1>
@@ -13,7 +13,6 @@
   </tr>
 </table>
 
----
 ---
 
 ## **CAREER OBJECTIVE**
