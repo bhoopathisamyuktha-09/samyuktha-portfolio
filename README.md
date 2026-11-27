@@ -18,7 +18,7 @@ Vardhaman College of Engineering
 - **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
 - **Visualization:** Power BI, Microsoft Excel
 - **Machine Learning:** Recommendation Systems, Predictive Modeling
-- **Frameworks and Tools:** FastAPI, React, Streamlit, OpenCV, Git, GitHub
+- **Tool:** GitHub
 
 ## **INTERNSHIP EXPERIENCE**
 
@@ -28,7 +28,7 @@ Vardhaman College of Engineering
 **SentinelAI: AI-Assisted Security Operations Dashboard (Group Project)**
 
 - Collaborated on developing an AI-powered Security Operations Center (SOC) platform for detecting, analyzing, prioritizing, and managing cybersecurity threats.
-- **Key Contribution:** Handled data cleaning and data preparation to ensure data quality and readiness for machine learning-based threat detection.
+- Key Contribution: Handled data cleaning and data preparation to ensure data quality and readiness for machine learning-based threat detection.
 - Contributed to the data preparation workflow supporting threat detection, risk scoring, and security analysis.
 - The platform integrates incident management, attack-chain correlation, threat intelligence, vulnerability management, and automated response recommendations.
 
@@ -39,6 +39,7 @@ Vardhaman College of Engineering
 
 - Completed practical data science tasks and project-based exercises.
 - Applied programming and analytical concepts to assigned internship activities.
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
 
 ## **PROJECTS**
 
@@ -75,9 +76,9 @@ Vardhaman College of Engineering
 
 ## **CERTIFICATIONS**
 
-- **IBM – Data Fundamentals:** [View Certificate](https://lnkd.in/p/dPd68ZxH)
-- **Infosys Springboard – Data Science:** [View Certificate](https://lnkd.in/p/dH_D9pjM)
-- **Zomato Review Analysis – Unstop:** [View Certificate / Project](https://lnkd.in/p/d7Kn9RvJ)
+- **IBM – Data Fundamentals**                       [View Certificate](https://lnkd.in/p/dPd68ZxH)
+- **Infosys Springboard – Data Science**            [View Certificate](https://lnkd.in/p/dH_D9pjM)
+- **Zomato Review Analysis – Unstop**               [View Certificate ](https://lnkd.in/p/d7Kn9RvJ)
 
 ## **AREAS OF INTEREST**
 
