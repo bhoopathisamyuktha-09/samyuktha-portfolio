@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="190" valign="middle">
+    <td width="250" valign="middle">
       <img src="assets/images/profile.jpeg" alt="Profile Photo" width="160">
     </td>
     <td valign="middle">
