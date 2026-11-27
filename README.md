@@ -1,7 +1,7 @@
 # **Bhoopathi Samyuktha**
 ### Aspiring Data Analyst 
 
-![Profile Photo](assets/images/profile.jpg)
+![Profile Photo](assets/images/profile.jpeg)
 
 [GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathisamyuktha@gmail.com)
 
