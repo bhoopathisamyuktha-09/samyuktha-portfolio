@@ -3,6 +3,20 @@
 <img src="assets/images/profile.jpeg" alt="Profile Photo" width="150">
 
 [GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathisamyuktha@gmail.com)
+<table>
+  <tr>
+    <td width="170" valign="middle">
+      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="140">
+    </td>
+    <td valign="middle">
+      <h1>Bhoopathi Samyuktha</h1>
+      <h3>Aspiring Data Analyst</h3>
+      <a href="https://github.com/bhoopathisamyuktha-09">GitHub</a> |
+      <a href="https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b">LinkedIn</a> |
+      <a href="mailto:bhoopathisamyuktha@gmail.com">Email</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
