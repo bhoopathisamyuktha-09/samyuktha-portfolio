@@ -1,6 +1,6 @@
 ## **CAREER OBJECTIVE**
 
-Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, SQL, Excel, and Power BI, with an interest in data analysis, 
+Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, Excel, and Power BI, with an interest in data analysis, 
 visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
 
 ---
@@ -14,7 +14,7 @@ Vardhaman College of Engineering
 ## **TECHNICAL SKILLS**
 
 - **Programming:** Python
-- **Database:** SQL, MongoDB
+- **Database:** SQL
 - **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
 - **Visualization:** Power BI, Microsoft Excel
 - **Machine Learning:** Recommendation Systems, Predictive Modeling
@@ -39,6 +39,7 @@ Vardhaman College of Engineering
 
 - Completed practical data science tasks and project-based exercises.
 - Applied programming and analytical concepts to assigned internship activities.
+  
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
 
 ## **PROJECTS**
