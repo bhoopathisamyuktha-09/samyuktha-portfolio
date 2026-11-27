@@ -49,7 +49,7 @@ Vardhaman College of Engineering
 ## **PROJECTS**
 
 ### **1. E-commerce Sales Monitoring Dashboard**
-
+![E-commerce Dashboard](assets/images/ecommerce-dashboard.png)
 **Tools:** Power BI, Excel
 
 - Developed a dashboard to monitor e-commerce sales performance.
@@ -58,7 +58,7 @@ Vardhaman College of Engineering
 - **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring) 
 
 ### **2. Movie Recommendation System**
-
+![Movie Recommendation System](assets/images/movie-recommendation.png)
 **Tools:** Python, Machine Learning
 
 - Developed a machine learning-based movie recommendation system.
@@ -66,7 +66,7 @@ Vardhaman College of Engineering
 - **Project Links:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py) 
 
 ### **3. Sales Prediction**
-
+![Sales Prediction](assets/images/sales-prediction.png)
 **Tools:** Python, Machine Learning
 
 - Developed a machine learning model to predict sales using historical data.
