@@ -1,8 +1,3 @@
-# **Bhoopathi Samyuktha**
-### Aspiring Data Analyst
-<img src="assets/images/profile.jpeg" alt="Profile Photo" width="150">
-
-[GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathisamyuktha@gmail.com)
 <table>
   <tr>
     <td width="170" valign="middle">
@@ -17,6 +12,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 
 ---
 
