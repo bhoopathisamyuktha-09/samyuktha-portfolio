@@ -1,7 +1,7 @@
-<table width="350%">
+<table width="450%">
   <tr>
     <td width="22%" align="left" valign="middle">
-      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="280">
+      <img src="assets/images/profile.jpeg" alt="Profile Photo" width="340">
     </td>
     <td width="78%" align="left" valign="middle">
       <h1>Bhoopathi Samyuktha</h1>
