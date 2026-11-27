@@ -24,7 +24,7 @@ Vardhaman College of Engineering
 - **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
 - **Visualization:** Power BI, Microsoft Excel
 - **Machine Learning:** Recommendation Systems, Predictive Modeling
-- **Frameworks & Tools:** FastAPI, React, Streamlit, OpenCV, Git, GitHub
+
 
 ## **INTERNSHIP EXPERIENCE**
 
@@ -70,20 +70,11 @@ Vardhaman College of Engineering
 - Developed a machine learning model to predict sales using historical data.
 - Focused on identifying sales patterns and forecasting future sales.
 
-### **4. ExplainCropAI – Explainable Crop Disease Detection**
 
-**Status:** In Progress
-
-**Tools:** Python, Swin Transformer, Grad-CAM, OpenCV, Streamlit, MongoDB
-
-- Developing an explainable AI framework for crop disease detection.
-- Uses Swin Transformer for image-based disease classification.
-- Integrates Grad-CAM to provide visual explanations of model predictions.
 
 ## **CERTIFICATIONS**
 
 - Infosys – Business Intelligence
-- HP LIFE – Certification
 - IBM – Data Fundamentals
 - Infosys Springboard – Data Science
 
