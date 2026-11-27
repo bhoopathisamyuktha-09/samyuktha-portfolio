@@ -1,7 +1,6 @@
 Bhoopathi Samyuktha
 Aspiring Data Analyst 
-GitHub · LinkedIn · Email
----
+
 Career Objective
 Aspiring Data Analyst with a background in Computer Science and Data Science. Interested in using Python, SQL, Excel, and Power BI to analyze data, identify patterns, and communicate insights that support decision-making.
 Education
