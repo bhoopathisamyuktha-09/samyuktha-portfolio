@@ -1,50 +1,54 @@
-## **CAREER OBJECTIVE**
 
-Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, Excel, and Power BI, with an interest in data analysis, 
-visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
+## 🎯 CAREER OBJECTIVE
+
+Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, Excel, and Power BI, with an interest in data analysis, visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
 
 ---
 
-## **EDUCATION**
+## 🎓 EDUCATION
 
 **B.Tech – Computer Science and Engineering (Data Science)**  
 Vardhaman College of Engineering  
-2024 – 2028
+📅 2024 – 2028
 
-## **TECHNICAL SKILLS**
+---
+
+## 🛠️ TECHNICAL SKILLS
 
 - **Programming:** Python
 - **Database:** SQL
 - **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
 - **Visualization:** Power BI, Microsoft Excel
 - **Machine Learning:** Recommendation Systems, Predictive Modeling
-- **Tool:** GitHub
+- **Tools:** GitHub
 
-## **INTERNSHIP EXPERIENCE**
+---
 
-**Infosys Springboard – Threat Detection Project**  
+## 💼 INTERNSHIP EXPERIENCE
+
+### 🔐 Infosys Springboard – Threat Detection Project
 *July 2026 – September 2026*
 
 **SentinelAI: AI-Assisted Security Operations Dashboard (Group Project)**
 
-- Collaborated on developing an AI-powered Security Operations Center (SOC) platform for detecting, analyzing, prioritizing, and managing cybersecurity threats.
-- Key Contribution: Handled data cleaning and data preparation to ensure data quality and readiness for machine learning-based threat detection.
-- Contributed to the data preparation workflow supporting threat detection, risk scoring, and security analysis.
-- The platform integrates incident management, attack-chain correlation, threat intelligence, vulnerability management, and automated response recommendations.
+- Contributed to developing an AI-powered platform for cybersecurity threat detection and analysis.
+- Handled data cleaning and preparation to support machine learning-based threat detection and risk scoring.
+- Supported data workflows for security analysis and threat prioritization.
 
 **Technologies:** Python, FastAPI, React, MongoDB, Machine Learning
 
-**CODSOFT – Data Science Intern**  
+### 📊 CODSOFT – Data Science Intern
 *December 2025 – January 2026*
 
-- Completed practical data science tasks and project-based exercises.
-- Applied programming and analytical concepts to assigned internship activities.
-  
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
+- Completed practical data science tasks involving data preprocessing, exploratory data analysis, and machine learning.
 
-## **PROJECTS**
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
 
-### **1. E-commerce Sales Monitoring Dashboard**
+---
+
+## 🚀 PROJECTS
+
+### 📊 1. E-commerce Sales Monitoring Dashboard
 
 <img src="assets/images/ecommerce-dashboard.png" alt="E-commerce Dashboard" width="700">
 
@@ -55,7 +59,7 @@ Vardhaman College of Engineering
 - **Dashboard Metrics:** $3.07M sales, $1K average sale, 3.9 average rating, and approximately 3,000 items.
 - **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring)
 
-### **2. Movie Recommendation System**
+### 🎬 2. Movie Recommendation System
 
 <img src="assets/images/movie-recommendation.png" alt="Movie Recommendation System" width="700">
 
@@ -65,7 +69,7 @@ Vardhaman College of Engineering
 - Focused on recommending movies based on user preferences and similarity.
 - **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py)
 
-### **3. Sales Prediction**
+### 📈 3. Sales Prediction
 
 <img src="assets/images/sales-prediction.png" alt="Sales Prediction" width="700">
 
@@ -75,22 +79,29 @@ Vardhaman College of Engineering
 - Focused on identifying sales patterns and forecasting future sales.
 - **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task4.py)
 
-## **CERTIFICATIONS**
+---
 
-- **IBM – Data Fundamentals**                       [View Certificate](https://lnkd.in/p/dPd68ZxH)
-- **Infosys Springboard – Data Science**            [View Certificate](https://lnkd.in/p/dH_D9pjM)
-- **Zomato Review Analysis – Unstop**               [View Certificate ](https://lnkd.in/p/d7Kn9RvJ)
+## 🏆 CERTIFICATIONS
 
-## **AREAS OF INTEREST**
+- **IBM – Data Fundamentals**  
+  [View Certificate](https://lnkd.in/p/dPd68ZxH)
 
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Machine Learning
-- Predictive Analytics
-- Artificial Intelligence
+- **Infosys Springboard – Data Science**  
+  [View Certificate](https://lnkd.in/p/dH_D9pjM)
 
-## **CONTACT**
+- **Zomato Review Analysis – Unstop**  
+  [View Certificate](https://lnkd.in/p/d7Kn9RvJ)
+
+---
+
+## 🌱 AREAS OF INTEREST
+
+📊 Data Analytics · Business Intelligence · Data Visualization  
+🤖 Machine Learning · Predictive Analytics · Artificial Intelligence
+
+---
+
+## 📬 CONTACT
 
 - **GitHub:** [bhoopathisamyuktha-09](https://github.com/bhoopathisamyuktha-09)
 - **LinkedIn:** [Bhoopathi Samyuktha](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b)
@@ -98,4 +109,10 @@ Vardhaman College of Engineering
 
 ---
 
-**Connect with me:** [GitHub](https://github.com/bhoopathisamyuktha-09) | [LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b) | [Email](mailto:bhoopathi.samyuktha@gmail.com)
+<p align="center">
+  ✨ Thanks for visiting my portfolio! ✨
+</p>
+
+<p align="center">
+  <b>Turning data into insights, one project at a time. 📊</b>
+</p>
