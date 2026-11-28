@@ -1,85 +1,127 @@
 
-## 🎯 CAREER OBJECTIVE
+<h1 align="center">👋 Hi, I'm Bhoopathi Samyuktha</h1>
 
-Aspiring Data Analyst with a background in Computer Science and Data Science. Skilled in Python, Excel, and Power BI, with an interest in data analysis, visualization, and machine learning. Passionate about transforming raw data into meaningful insights and developing data-driven solutions.
+<h3 align="center">📊 Aspiring Data Analyst | Data Science Student</h3>
+
+<p align="center">
+  Turning data into insights and insights into meaningful decisions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b">LinkedIn</a> •
+  <a href="https://github.com/bhoopathisamyuktha-09">GitHub</a> •
+  <a href="mailto:bhoopathisamyuktha@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🎓 EDUCATION
+## 🌟 About Me
+
+🎓 I'm pursuing a **B.Tech in Computer Science and Engineering (Data Science)** at Vardhaman College of Engineering.
+
+📊 I enjoy exploring data, discovering patterns, creating dashboards, and building data-driven solutions.
+
+💡 My interests include:
+- Data Analytics & Business Intelligence
+- Data Visualization
+- Machine Learning
+- Predictive Analytics
+
+🚀 I'm continuously improving my analytical skills and building projects that transform raw data into meaningful insights.
+
+---
+
+## 🎓 Education
 
 **B.Tech – Computer Science and Engineering (Data Science)**  
-Vardhaman College of Engineering  
+🏫 Vardhaman College of Engineering  
 📅 2024 – 2028
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+## 🛠️ Tech Stack
 
-- **Programming:** Python
-- **Database:** SQL
-- **Data Analysis:** Data Cleaning, Data Preparation, Exploratory Data Analysis
-- **Visualization:** Power BI, Microsoft Excel
-- **Machine Learning:** Recommendation Systems, Predictive Modeling
-- **Tools:** GitHub
+| Category | Skills |
+|---|---|
+| 💻 Programming | Python |
+| 🗄️ Database | SQL |
+| 📊 Data Analytics | Data Cleaning, Data Preparation, EDA |
+| 📈 Visualization | Power BI, Excel |
+| 🤖 Machine Learning | Recommendation Systems, Predictive Modeling |
+| 🧰 Libraries | Pandas, NumPy, Matplotlib, Scikit-learn |
+| 🔧 Tools | GitHub, Jupyter Notebook |
 
 ---
 
-## 💼 INTERNSHIP EXPERIENCE
+## 💼 Internship Experience
 
 ### 🔐 Infosys Springboard – Threat Detection Project
+
+**SentinelAI: AI-Assisted Security Operations Dashboard (Group Project)**  
 *July 2026 – September 2026*
 
-**SentinelAI: AI-Assisted Security Operations Dashboard (Group Project)**
-
-- Contributed to developing an AI-powered platform for cybersecurity threat detection and analysis.
-- Handled data cleaning and preparation to support machine learning-based threat detection and risk scoring.
+- Contributed to data cleaning and preparation for ML-based threat detection and risk scoring.
 - Supported data workflows for security analysis and threat prioritization.
 
-**Technologies:** Python, FastAPI, React, MongoDB, Machine Learning
+**Tech:** Python, FastAPI, React, MongoDB, Machine Learning
 
 ### 📊 CODSOFT – Data Science Intern
+
 *December 2025 – January 2026*
 
-- Completed practical data science tasks involving data preprocessing, exploratory data analysis, and machine learning.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
+- Completed data science projects involving data cleaning, preprocessing, and exploratory data analysis (EDA).
+- Applied machine learning techniques to build and evaluate predictive models using Python.
+  
+**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
 
 ---
 
-## 🚀 PROJECTS
+## 🚀 Featured Projects
 
 ### 📊 1. E-commerce Sales Monitoring Dashboard
 
-<img src="assets/images/ecommerce-dashboard.png" alt="E-commerce Dashboard" width="700">
+<img src="assets/images/ecommerce-dashboard.png" alt="E-commerce Sales Monitoring Dashboard" width="700">
+
+An interactive Power BI dashboard to explore sales performance and business trends.
+
+✨ **Dashboard Highlights**
+- 💰 Total Sales: $3.07M
+- 🛒 Average Sale: $1K
+- ⭐ Average Rating: 3.9
+- 📦 Items: Approximately 3,000
+
+🔗 [Explore Project](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring)
 
 **Tools:** Power BI, Excel
 
-- Developed a dashboard to monitor e-commerce sales performance.
-- Presented key business metrics, including total sales, average sale value, customer ratings, and item-level information.
-- **Dashboard Metrics:** $3.07M sales, $1K average sale, 3.9 average rating, and approximately 3,000 items.
-- **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/e-commerce-sales-monitoring)
+---
 
 ### 🎬 2. Movie Recommendation System
 
 <img src="assets/images/movie-recommendation.png" alt="Movie Recommendation System" width="700">
 
+- Developed a movie recommendation system using movie datasets and similarity-based techniques.
+- Used Python and machine learning to recommend relevant movies based on user preferences.
+  
+🔗 [View Project](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py)
+
 **Tools:** Python, Machine Learning
 
-- Developed a machine learning-based movie recommendation system.
-- Focused on recommending movies based on user preferences and similarity.
-- **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task2.py)
+---
 
 ### 📈 3. Sales Prediction
 
 <img src="assets/images/sales-prediction.png" alt="Sales Prediction" width="700">
 
-**Tools:** Python, Machine Learning
+- Analyzed advertising data to identify sales patterns and understand the relationship between advertising and sales.
+- Built a regression-based machine learning model to predict sales using advertising data.
 
-- Developed a machine learning model to predict sales using historical data.
-- Focused on identifying sales patterns and forecasting future sales.
-- **Project Link:** [GitHub Repository](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task4.py)
+🔗 [View Project](https://github.com/bhoopathisamyuktha-09/CodSoft/blob/main/task4.py)
+
+**Tools:** Python, Pandas, Scikit-learn
 
 ---
+
 
 ## 🏆 CERTIFICATIONS
 
@@ -94,25 +136,23 @@ Vardhaman College of Engineering
 
 ---
 
-## 🌱 AREAS OF INTEREST
+## 💬 Soft Skills
 
-📊 Data Analytics · Business Intelligence · Data Visualization  
-🤖 Machine Learning · Predictive Analytics · Artificial Intelligence
-
----
-
-## 📬 CONTACT
-
-- **GitHub:** [bhoopathisamyuktha-09](https://github.com/bhoopathisamyuktha-09)
-- **LinkedIn:** [Bhoopathi Samyuktha](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b)
-- **Email:** [bhoopathisamyuktha@gmail.com](mailto:bhoopathisamyuktha@gmail.com)
+- 🤝 Teamwork and Collaboration
+- 🧠 Problem-Solving
+- 💬 Communication — B2 (Cambridge Upskill)
+- 🌱 Adaptability and Continuous Learning
 
 ---
+
+## 🤝 Let's Connect!
+
+I'm always happy to connect with fellow data enthusiasts, learn from new experiences, and explore opportunities in data analytics.
+
+📧 [Email Me](mailto:bhoopathisamyuktha@gmail.com)  
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/bhoopathi-samyuktha-4a71b334b)  
+🐙 [Explore My GitHub](https://github.com/bhoopathisamyuktha-09)
 
 <p align="center">
   ✨ Thanks for visiting my portfolio! ✨
-</p>
-
-<p align="center">
-  <b>Turning data into insights, one project at a time. 📊</b>
 </p>
