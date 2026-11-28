@@ -31,14 +31,6 @@
 
 ---
 
-## 🎓 Education
-
-**B.Tech – Computer Science and Engineering (Data Science)**  
-🏫 Vardhaman College of Engineering  
-📅 2024 – 2028
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Skills |
